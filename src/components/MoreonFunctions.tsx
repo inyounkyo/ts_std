@@ -26,7 +26,7 @@ const MoreonFunctions = () => {
   }
   greeter(printToConsole);
 
-  return <div>More on Functions</div>;
+  return <div>More on Functions!!</div>;
 };
 
 export default MoreonFunctions;
