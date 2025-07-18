@@ -122,7 +122,7 @@ const Myfuntions = () => {
     },
   };
 
-  console.log(hitest005.getCoupon("input", 333));
+  console.log(hitest005.getCoupon("inputgdfg", 333));
   return <div>Myfuntionsss</div>;
 };
 
